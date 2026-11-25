@@ -1,6 +1,8 @@
 # Enterprise-task-management-and-client-ticket-raising
 Enterprise task management and client ticket raising web app built with CodeIgniter 4 and PostgreSQL. Features hierarchical product/module tracking, RBAC, daily progress logging with DAG dependency checks, public ticket self-service with SHA-256 tokens, active Gmail SMTP email alerts, and desktop push notifications.
 
+codeigniter4 • php • postgresql • task-management • ticket-raising • helpdesk • rbac • smtp-notifications • push-notifications • bootstrap5
+
 Task Management & Ticket Raising System is a centralized enterprise web application that unifies Software Product/Module Management, Hierarchical Task Tracking, and Client Support Ticket Raising & Triage.
 
 🚀 Key Highlights & Modules
